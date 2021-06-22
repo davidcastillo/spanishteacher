@@ -15,16 +15,17 @@
                     <!-- SLIDE -->
                     <li data-transition="fade" data-slotamount="7" data-masterspeed="300" data-saveperformance="off">
                         <!-- MAIN IMAGE -->
-                        <img src="content/images/home_school_slide_1_bg.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                        <img src="images/spanish_teacher_uk.jpg" alt="main" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" style="width: 100%; height: 100% ;">
                         <!-- LAYERS -->
 
-                        <!-- LAYER NR. 1 -->
-                        <div class="tp-caption lfr" data-x="center" data-hoffset="333" data-y="center" data-voffset="84" data-speed="1000" data-start="500" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 5;"><img src="content/images/home_school_slide_1_woman.png" alt="">
-                        </div>
+                        <!-- LAYER NR. 1 
+                        <div class="tp-caption lfr" data-x="center" data-hoffset="333" data-y="center" data-voffset="84" data-speed="1000" data-start="500" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 5;">
+                        <img src="images/spanish_teacher_uk.jpg" alt="" style="width: 777px; height: 534px ;" >
+                        </div>-->
 
-                        <!-- LAYER NR. 2 -->
+                        <!-- LAYER NR. 2 
                         <div class="tp-caption tp-fade" data-x="center" data-hoffset="-207" data-y="center" data-voffset="15" data-speed="1000" data-start="800" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 6;"><img src="content/images/home_school_slide_1_num.png" alt="">
-                        </div>
+                        </div>-->
                     </li>
                     <!-- SLIDE -->
                     <li data-transition="fade" data-slotamount="7" data-masterspeed="300" data-saveperformance="off">
@@ -36,9 +37,10 @@
                         <div class="tp-caption lfr" data-x="center" data-hoffset="333" data-y="center" data-voffset="84" data-speed="1000" data-start="500" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 5;"><img src="content/images/home_school_slide_1_woman.png" alt="">
                         </div>
 
-                        <!-- LAYER NR. 2 -->
-                        <div class="tp-caption tp-fade" data-x="center" data-hoffset="-207" data-y="center" data-voffset="15" data-speed="1000" data-start="800" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 6;"><img src="content/images/home_school_slide_1_num.png" alt="">
-                        </div>
+                        <!-- LAYER NR. 2 
+                        <div class="tp-caption tp-fade" data-x="center" data-hoffset="-207" data-y="center" data-voffset="15" data-speed="1000" data-start="800" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 6;">
+                        <img src="content/images/home_school_slide_1_num.png" alt="">
+                        </div>-->
                     </li>
                 </ul>
                 <div class="tp-bannertimer tp-bottom flv_viz_hid"></div>
