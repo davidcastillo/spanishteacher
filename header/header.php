@@ -34,6 +34,7 @@
     <link rel='stylesheet' href='cssHeader/structure.css'>
     <link rel='stylesheet' href='cssHeader/cafe2.css'> 
     <link rel='stylesheet' href='css/global.css'>
+    <link rel='stylesheet' href='css/custom.css'>
     <link rel='stylesheet' href='content/css/structure.css'>
     <link rel='stylesheet' href='content/css/school.css'>
 
@@ -45,79 +46,30 @@
 <body class="template-slider color-custom style-simple button-stroke layout-full-width if-zoom no-content-padding header-split minimalist-header-no sticky-header sticky-tb-color ab-hide subheader-both-center menu-link-color menuo-no-borders mobile-tb-center mobile-side-slide mobile-mini-mr-ll tr-header tr-menu tr-content be-reg-206">
    
 <div id="Wrapper">
-    <!-- Header Top -  Info Area -->
-    <div id="Action_bar">
-        <div class="container">
-            <div class="column one">
-                <!-- Header - contact info area-->
-                <ul class="contact_details">
-                    <li class="slogan">
-                        Have any questions?
-                    </li>
-                    <li class="phone">
-                        <i class="icon-phone"></i><a href="tel:+351913823019">+351 913 823 019</a>
-                    </li>
-                    <li class="mail">
-                        <i class="icon-mail-line"></i><a href="mailto:noreply@envato.com">noreply@envato.com</a>
-                    </li>
-                </ul>
-                <!--Social info area-->
-                <ul class="social">
-                     <!--
-                    <li class="skype">
-                        <a href="#" title="Skype"><i class="icon-skype"></i></a>
-                    </li>
-                    <li class="googleplus">
-                        <a href="#" title="Google+"><i class="icon-gplus"></i></a>
-                    </li>
-                    <li class="vimeo">
-                        <a href="#" title="Vimeo"><i class="icon-vimeo"></i></a>
-                    </li>
-                    <li class="twitter">
-                        <a href="#" title="Twitter"><i class="icon-twitter"></i></a>
-                    </li>
-                    
-                    <li class="flickr">
-                        <a href="#" title="Flickr"><i class="icon-flickr"></i></a>
-                    </li>
-                    <li class="behance">
-                        <a href="#" title="Behance"><i class="icon-behance"></i></a>
-                    </li>
-                    <li class="viadeo">
-                        <a href="#" title="Viadeo"><i class="icon-viadeo"></i></a>
-                    </li>
-                    -->
-                    <li class="youtube">
-                        <a href="#" title="YouTube"><i class="icon-play"></i></a>
-                    </li>
-                    <li class="instagram">
-                        <a href="#" title="Instagram"><i class="icon-instagram"></i></a>
-                    </li>
-                    <li class="facebook">
-                        <a href="#" title="Facebook"><i class="icon-facebook"></i></a>
-                    </li>         
-                </ul>
-            </div>
-        </div>
-    </div>
-    <!-- Actual header with centered logo-->
+   <!-- Actual header with centered logo-->
     <div id="Header_wrapper">
         <header id="Header">
-            <div id="Top_bar">
+            <div id="Top_bar" style="height: 115px;">
                 <div class="container">
                     <div class="column one">
+                    
                         <div class="top_bar_left clearfix">
+                        
                             <div class="logo">
+                            
                                 <a id="logo" href="index.php" title="BeCafe 2 - BeTheme" data-height="60" data-padding="15">
-                                    <img class="logo-main scale-with-grid" src="content/images/retina-school.png" data-retina="imagesHeader/retina-cafe2.png" data-height="32" alt="cafe2">
-                                <!--    <img class="logo-sticky scale-with-grid" src="content/images/retina-school.png" data-retina="content/images/retina-school.png" data-height="32" alt="cafe2">
-                                    <img class="logo-mobile scale-with-grid" src="content/images/retina-school.png" data-retina="content/images/retina-school.png" data-height="32" alt="cafe2">
-                                    <img class="logo-mobile-sticky scale-with-grid" src="content/images/retina-school.png" data-retina="content/images/retina-school.png" data-height="32" alt="cafe2">
-                                -->
+                                    <!-- <img class="logo-main scale-with-grid" src="content/images/SpanishLessonsOnline.png" data-retina="imagesHeader/SpanishLessonsOnline.png" data-height="32" alt="cafe2"> -->
+                                    <!-- <img class="logo-sticky scale-with-grid" src="content/images/SpanishLessonsOnline.png" data-retina="content/images/SpanishLessonsOnline.png" data-height="32" alt="cafe2"> -->
+                                    <img class="logo-mobile scale-with-grid" src="content/images/SpanishLessonsOnline.png" data-retina="content/images/SpanishLessonsOnline.png" data-height="32" alt="cafe2">
+                                    <!-- <img class="logo-mobile-sticky scale-with-grid" src="content/images/SpanishLessonsOnline.png" data-retina="content/images/SpanishLessonsOnline.png" data-height="32" alt="cafe2"> -->
+                                    
                                 </a>
+                                
                             </div>
-                            <div class="menu_wrapper">
-                                <nav id="menu">
+                            
+                            <div class="menu_wrapper" style="height: 25px;">
+                            
+                                <nav id="menu" style="padding-top: 25px;">
                                     <ul style="text-align: right;" id="menu-main-menu-left" class="menu menu_left">
                                         <li class="current_page_item">
                                             <a href="spanish_classes.php"><span>Classes</span></a>
@@ -134,10 +86,20 @@
                                         <a href="resources.php"><span>Resources</span></a>
                                         </li>
                                     </ul>
+                                    <ul style="text-align:center">
+                                        <li>
+                                        <!-- <h1 style="text-align:center; font-size:20px; padding-top: 40px;line-height: 10px !important ;">Spanish Language School </h1> -->
+                                        </li>
+                                    </ul>
                                 </nav>
+                                <div class="mainH1">
+                                    <h1 style="">Spanish Language School </h1>
+                                </div>
                                 <a class="responsive-menu-toggle" href="#"><i class="icon-menu-fine"></i></a>
                             </div>
+                            
                         </div>
+                        
                     </div>
                 </div>
             </div>

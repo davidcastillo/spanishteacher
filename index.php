@@ -15,20 +15,22 @@
                     <!-- SLIDE -->
                     <li data-transition="fade" data-slotamount="7" data-masterspeed="300" data-saveperformance="off">
                         <!-- MAIN IMAGE -->
-                        <img src="images/spanish_teacher_uk.jpg" alt="main" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" style="width: 100%; height: 100% ;">
+                        <img src="images/spanish_tutor.jpg" alt="main" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" style="width: 100%; height: 100% ;">
                         <!-- LAYERS -->
 
-                        <!-- LAYER NR. 1 
+                        <!-- LAYER NR. 1 -->
                         <div class="tp-caption lfr" data-x="center" data-hoffset="333" data-y="center" data-voffset="84" data-speed="1000" data-start="500" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 5;">
-                        <img src="images/spanish_teacher_uk.jpg" alt="" style="width: 777px; height: 534px ;" >
-                        </div>-->
-
-                        <!-- LAYER NR. 2 
+                        <div> 
+                           <h1>Spanish Lessons </h1> 
+                        </div>
+                        </div> 
+                        <!-- 
+                        LAYER NR. 2 
                         <div class="tp-caption tp-fade" data-x="center" data-hoffset="-207" data-y="center" data-voffset="15" data-speed="1000" data-start="800" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 6;"><img src="content/images/home_school_slide_1_num.png" alt="">
-                        </div>-->
+                        </div> -->
                     </li>
                     <!-- SLIDE -->
-                    <li data-transition="fade" data-slotamount="7" data-masterspeed="300" data-saveperformance="off">
+                    <li >
                         <!-- MAIN IMAGE -->
                         <img src="content/images/home_school_slide_1_bg.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
@@ -41,8 +43,10 @@
                         <div class="tp-caption tp-fade" data-x="center" data-hoffset="-207" data-y="center" data-voffset="15" data-speed="1000" data-start="800" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 6;">
                         <img src="content/images/home_school_slide_1_num.png" alt="">
                         </div>-->
+                        
                     </li>
                 </ul>
+
                 <div class="tp-bannertimer tp-bottom flv_viz_hid"></div>
             </div>
         </div>
@@ -409,11 +413,11 @@
                 var retinaEl = jQuery("#logo img.logo-main");
                 var retinaLogoW = retinaEl.width();
                 var retinaLogoH = retinaEl.height();
-                retinaEl.attr("src", "content/images/retina-school.png").width(retinaLogoW).height(retinaLogoH);
+                retinaEl.attr("src", "content/images/SpanishLessonsOnline.png").width(retinaLogoW).height(retinaLogoH);
                 var stickyEl = jQuery("#logo img.logo-sticky");
                 var stickyLogoW = stickyEl.width();
                 var stickyLogoH = stickyEl.height();
-                stickyEl.attr("src", "content/images/retina-school.png").width(stickyLogoW).height(stickyLogoH);
+                stickyEl.attr("src", "content/images/SpanishLessonsOnline.png").width(stickyLogoW).height(stickyLogoH);
             }
         });
         //]]>

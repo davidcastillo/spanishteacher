@@ -198,7 +198,7 @@ a.mfn-link-6:before {
 	color: #444444;
 }
 #Top_bar .menu>li.current-menu-item>a, #Top_bar .menu>li.current_page_item>a, #Top_bar .menu>li.current-menu-ancestor>a, #Top_bar .menu>li.current_page_ancestor>a, #Top_bar .menu>li.hover>a {
-	color: #ff7713;
+	color: #FF1616;
 }
 #Top_bar .menu>li a:after {
 	background: #ff7713;
