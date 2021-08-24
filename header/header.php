@@ -93,7 +93,7 @@
                                     </ul>
                                 </nav>
                                 <div class="mainH1">
-                                    <h1 style="">Spanish Language School </h1>
+                                    <h1 style="">Spanish Lessons Online</h1>
                                 </div>
                                 <a class="responsive-menu-toggle" href="#"><i class="icon-menu-fine"></i></a>
                             </div>

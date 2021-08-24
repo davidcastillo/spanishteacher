@@ -14,19 +14,19 @@
                     <!-- .sections_group -->
                     <div class="sections_group">
                         <div class="entry-content">
-                            <div class="section" style="padding-top:30px; padding-bottom:10px; background-color:#fff">
+                            <!-- <div class="section" style="padding-top:30px; padding-bottom:10px; background-color:#fff">
                                 <div class="section_wrapper clearfix">
-                                    <div class="items_group clearfix">
+                                    <div class="items_group clearfix"> -->
                                         <!-- One full width row-->
-                                        <div class="column one column_column ">
+                                        <!-- <div class="column one column_column ">
                                             <div class="column_attr ">
-                                                <h2 style="text-align: center; margin: 0;">Our school is the <span class="highlight" >best choice</span> for your kid</h2>
+                                                <h2 style="text-align: center; margin: 0;">My lessons are the <span class="highlight" >best choice</span> for your kid</h2>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <!-- One Third (1/3) Column -->
-                                        <div class="column one-third column_icon_box ">
+                                        <!-- <div class="column one-third column_icon_box "> -->
                                             <!-- Animated area -->
-                                            <div class="animate" data-anim-type="fadeInLeftLarge">
+                                            <!-- <div class="animate" data-anim-type="fadeInLeftLarge">
                                                 <div class="icon_box icon_position_left has_border">
                                                     <div class="image_wrapper"><img src="content/images/home_school_box_1.png" alt="Teaching" class="scale-with-grid" />
                                                     </div>
@@ -38,11 +38,11 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <!-- One Third (1/3) Column -->
-                                        <div class="column one-third column_icon_box ">
+                                        <!-- <div class="column one-third column_icon_box "> -->
                                             <!-- Animated area -->
-                                            <div class="animate" data-anim-type="zoomIn">
+                                            <!-- <div class="animate" data-anim-type="zoomIn">
                                                 <div class="icon_box icon_position_left has_border">
                                                     <div class="image_wrapper"><img src="content/images/home_school_box_2.png" alt="Creativity" class="scale-with-grid" />
                                                     </div>
@@ -54,11 +54,11 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <!-- One Third (1/3) Column -->
-                                        <div class="column one-third column_icon_box ">
+                                        <!-- <div class="column one-third column_icon_box "> -->
                                             <!-- Animated area -->
-                                            <div class="animate" data-anim-type="fadeInRightLarge">
+                                            <!-- <div class="animate" data-anim-type="fadeInRightLarge">
                                                 <div class="icon_box icon_position_left no_border">
                                                     <div class="image_wrapper"><img src="content/images/home_school_box_3.png" alt="Recreation" class="scale-with-grid" />
                                                     </div>
@@ -69,7 +69,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>

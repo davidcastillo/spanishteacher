@@ -44,7 +44,7 @@
                                         <div class="fancy_heading fancy_heading_icon">
                                             <!-- Animated area -->
                                             <div class="animate" data-anim-type="fadeInUp">
-                                                <h2 class="title">Choose hosting line and <span class="themecolor">start today</span></h2>
+                                                <h2 class="title">Choose your lesson plan and <span class="themecolor">start today</span></h2>
                                                 <div class="inside">
                                                     <span class="big">Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.</span>
                                                 </div>
@@ -57,11 +57,11 @@
                                             <!-- Animated area -->
                                             <div class="animate" data-anim-type="fadeIn">
                                                 <div class="plan-header">
-                                                    <div class="image"><img src="classes/plansImages/home_hosting_pricing_pic_1.png" alt="Basic" />
+                                                    <div class="image"><img src="classes/plansImages/home_hosting_pricing_pic_3.png" alt="Business" />
                                                     </div>
-                                                    <h2>1 Class</h2>
+                                                    <h2>4 Classes Pack</h2>
                                                     <div class="price">
-                                                        <sup class="currency">$</sup><span>15</span><sup class="period">/ monthly</sup>
+                                                        <sup class="currency">€</sup><span>15</span><sup class="period">/ each class</sup>
                                                     </div>
                                                     <hr class="hr_color" />
                                                     <p class="subtitle">
@@ -71,22 +71,23 @@
                                                 <div class="plan-inside">
                                                     <ul>
                                                         <li>
-                                                            <strong>10GB</strong> Space amount
+                                                            <strong>Online Class</strong> 
                                                         </li>
                                                         <li>
-                                                            <strong>Unlimited</strong> users
+                                                            <strong>Online Dedicated Notebook</strong> 
                                                         </li>
                                                         <li>
-                                                            <strong> 30GB</strong> Bandwidth
+                                                            <strong> Free Postpone policy</strong>
                                                         </li>
                                                         <li>
-                                                            Enhanced Security
+                                                            <strong>You decide the focus of the class</strong>
                                                         </li>
                                                         <li>
-                                                            <strong>20</strong> MySQL Databases
+                                                            <strong>55 Mins class</strong> 
                                                         </li>
                                                     </ul>
-                                                    <div style="height: 36px; margin: 10px 0; text-align: center;"></div>
+                                                    <div style="height: 36px; margin: 10px 0; text-align: center;">
+                                                    </div>
                                                 </div>
                                                 <div class="plan-footer">
                                                     <a href="#" class="button button_left button_theme button_js"><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Sign up now</span></a>
@@ -100,11 +101,55 @@
                                             <!-- Animated area -->
                                             <div class="animate" data-anim-type="fadeIn">
                                                 <div class="plan-header">
-                                                    <div class="image"><img src="classes/plansImages/home_hosting_pricing_pic_2.png" alt="Standard" />
+                                                    <div class="image"><img src="classes/plansImages/home_hosting_pricing_pic_2.png" alt="Professional" />
                                                     </div>
-                                                    <h2>Standard</h2>
+                                                    <h2>8 Classes Pack</h2>
                                                     <div class="price">
-                                                        <sup class="currency">$</sup><span>19</span><sup class="period">/ monthly</sup>
+                                                        <sup class="currency">€</sup><span>10</span><sup class="period">/ each class</sup>
+                                                    </div>
+                                                    <hr class="hr_color" />
+                                                    <p class="subtitle">
+                                                        <span class="big">Practice makes masters and that is what you will get with this pack</span>
+                                                    </p>
+                                                </div>
+                                                <div class="plan-inside">
+                                                    <ul>
+                                                        <li>
+                                                            <strong>Online Class</strong> 
+                                                        </li>
+                                                        <li>
+                                                            <strong>Online Dedicated Notebook</strong> 
+                                                        </li>
+                                                        <li>
+                                                            <strong> Free Postpone policy</strong>
+                                                        </li>
+                                                        <li>
+                                                            <strong>You decide the focus of the class</strong>
+                                                        </li>
+                                                        <li>
+                                                            <strong>55 Mins class</strong> 
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div style="height: 36px; margin: 10px 0; text-align: center;">
+                                                    </div>
+                                                <div class="plan-footer">
+                                                    <a  style="border-color: white; color: white !important;" href="#" class="button button_left button_theme button_js"><span class="button_icon"><i style="color: white !important;" class="icon-basket"></i></span><span class="button_label">Sign up now</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                   <!-- One Fourth (1/4) Column -->
+                                    <div class="column one-fourth column_pricing_item">
+                                        <div class="pricing-box pricing-box-box">
+                                            <!-- Animated area -->
+                                            <div class="animate" data-anim-type="fadeIn">
+                                                <div class="plan-header">
+                                                    <div class="image"><img src="classes/plansImages/home_hosting_pricing_pic_4.png" alt="Standard" />
+                                                    </div>
+                                                    <h2>Standard Class</h2>
+                                                    <div class="price">
+                                                        <sup class="currency">€</sup><span>20</span><sup class="period">/ each class</sup>
                                                     </div>
                                                     <hr class="hr_color" />
                                                     <p class="subtitle">
@@ -114,27 +159,32 @@
                                                 <div class="plan-inside">
                                                     <ul>
                                                         <li>
-                                                            <strong>10GB</strong> Space amount
+                                                            <strong>Online Class</strong> 
                                                         </li>
                                                         <li>
-                                                            <strong>Unlimited</strong> users
+                                                            <strong>Online Dedicated Notebook</strong> 
                                                         </li>
                                                         <li>
-                                                            <strong> 30GB</strong> Bandwidth
+                                                            <strong> Free Postpone policy</strong>
                                                         </li>
                                                         <li>
-                                                            Enhanced Security
+                                                            <strong>You decide the focus of the class</strong>
                                                         </li>
                                                         <li>
-                                                            <strong>20</strong> MySQL Databases
+                                                            <strong>55 Mins class</strong> 
                                                         </li>
                                                     </ul>
                                                     <div style="height: 36px; margin: 10px 0; text-align: center;">
-                                                        <img src="classes/plansImages/home_hosting_pricingbox_option_1.png" alt="">
+                                                        
                                                     </div>
                                                 </div>
                                                 <div class="plan-footer">
-                                                    <a href="#" class="button button_left button_theme button_js"><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Sign up now</span></a>
+                                                    <a  href="#" class="button button_left button_theme button_js">
+                                                        <span class="button_icon">
+                                                                <i  class="icon-basket"></i>
+                                                        </span>
+                                                        <span class="button_label">Sign up now</span>
+                                                    </a>
                                                 </div>
                                             </div>
                                         </div>
@@ -145,80 +195,36 @@
                                             <!-- Animated area -->
                                             <div class="animate" data-anim-type="fadeIn">
                                                 <div class="plan-header">
-                                                    <div class="image"><img src="classes/plansImages/home_hosting_pricing_pic_3.png" alt="Business" />
+                                                    <div class="image"><img src="classes/plansImages/home_hosting_pricing_pic_1.png" alt="Basic" />
                                                     </div>
-                                                    <h2>Business</h2>
+                                                    <h2>Trial Class</h2>
                                                     <div class="price">
-                                                        <sup class="currency">$</sup><span>29</span><sup class="period">/ monthly</sup>
+                                                        <sup class="currency">€</sup><span>15</span><sup class="period">/ each class</sup>
                                                     </div>
                                                     <hr class="hr_color" />
                                                     <p class="subtitle">
-                                                        <span class="big">Vitae adipiscing turpis. Aenean ligula nibh, molestie id vivide.</span>
+                                                        <span class="big">To check if we are a good match for your learning process.</span>
                                                     </p>
                                                 </div>
                                                 <div class="plan-inside">
                                                     <ul>
                                                         <li>
-                                                            <strong>10GB</strong> Space amount
+                                                            <strong>Online Class</strong> 
+                                                        </li>
+                                                        <li style="text-decoration: line-through;">
+                                                            <strong>Online Dedicated Notebook</strong> 
+                                                        </li>
+                                                        <li style="text-decoration: line-through;">
+                                                            <strong> Free Postpone policy</strong>
                                                         </li>
                                                         <li>
-                                                            <strong>Unlimited</strong> users
+                                                            <strong>You decide the focus of the class</strong>
                                                         </li>
                                                         <li>
-                                                            <strong> 30GB</strong> Bandwidth
-                                                        </li>
-                                                        <li>
-                                                            Enhanced Security
-                                                        </li>
-                                                        <li>
-                                                            <strong>20</strong> MySQL Databases
+                                                            <strong style="text-decoration: line-through;">55 Mins class</strong>  <strong>40 Mins Class</strong>
                                                         </li>
                                                     </ul>
-                                                    <div style="height: 36px; margin: 10px 0; text-align: center;">
-                                                        <img src="classes/plansImages/home_hosting_pricingbox_option_3.png" alt="">
-                                                    </div>
-                                                </div>
-                                                <div class="plan-footer">
-                                                    <a href="#" class="button button_left button_theme button_js"><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Sign up now</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- One Fourth (1/4) Column -->
-                                    <div class="column one-fourth column_pricing_item">
-                                        <div class="pricing-box pricing-box-box">
-                                            <!-- Animated area -->
-                                            <div class="animate" data-anim-type="fadeIn">
-                                                <div class="plan-header">
-                                                    <div class="image"><img src="classes/plansImages/home_hosting_pricing_pic_4.png" alt="Professional" />
-                                                    </div>
-                                                    <h2>Professional</h2>
-                                                    <div class="price">
-                                                        <sup class="currency">$</sup><span>39</span><sup class="period">/ monthly</sup>
-                                                    </div>
-                                                    <hr class="hr_color" />
-                                                    <p class="subtitle">
-                                                        <span class="big">Vitae adipiscing turpis. Aenean ligula nibh, molestie id vivide.</span>
-                                                    </p>
-                                                </div>
-                                                <div class="plan-inside">
-                                                    <ul>
-                                                        <li>
-                                                            <strong>10GB</strong> Space amount
-                                                        </li>
-                                                        <li>
-                                                            <strong>Unlimited</strong> users
-                                                        </li>
-                                                        <li>
-                                                            <strong> 30GB</strong> Bandwidth
-                                                        </li>
-                                                        <li>
-                                                            Enhanced Security
-                                                        </li>
-                                                        <li>
-                                                            <strong>20</strong> MySQL Databases
-                                                        </li>
-                                                    </ul>
+                                                    <div style="height: 36px; margin: 10px 0; text-align: center;"></div>
                                                 </div>
                                                 <div class="plan-footer">
                                                     <a href="#" class="button button_left button_theme button_js"><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Sign up now</span></a>

@@ -19,31 +19,19 @@
                         <!-- LAYERS -->
 
                         <!-- LAYER NR. 1 -->
-                        <div class="tp-caption lfr" data-x="center" data-hoffset="333" data-y="center" data-voffset="84" data-speed="1000" data-start="500" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 5;">
-                        <div> 
-                           <h1>Spanish Lessons </h1> 
-                        </div>
+                        <div class="tp-caption lfr" data-x="center" data-hoffset="333" data-y="top" data-voffset="84" data-speed="1000" data-start="500" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 5;">
+                            <div> 
+                            <div class="callToAction">
+                                <a href="spanish_classes.php" >
+                                   <p style=""> Book your </br>class now</p>
+                                </a>
+                            </div>
+                            </div>
                         </div> 
                         <!-- 
                         LAYER NR. 2 
                         <div class="tp-caption tp-fade" data-x="center" data-hoffset="-207" data-y="center" data-voffset="15" data-speed="1000" data-start="800" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 6;"><img src="content/images/home_school_slide_1_num.png" alt="">
                         </div> -->
-                    </li>
-                    <!-- SLIDE -->
-                    <li >
-                        <!-- MAIN IMAGE -->
-                        <img src="content/images/home_school_slide_1_bg.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
-                        <!-- LAYERS -->
-
-                        <!-- LAYER NR. 1 -->
-                        <div class="tp-caption lfr" data-x="center" data-hoffset="333" data-y="center" data-voffset="84" data-speed="1000" data-start="500" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 5;"><img src="content/images/home_school_slide_1_woman.png" alt="">
-                        </div>
-
-                        <!-- LAYER NR. 2 
-                        <div class="tp-caption tp-fade" data-x="center" data-hoffset="-207" data-y="center" data-voffset="15" data-speed="1000" data-start="800" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 6;">
-                        <img src="content/images/home_school_slide_1_num.png" alt="">
-                        </div>-->
-                        
                     </li>
                 </ul>
 
@@ -65,62 +53,54 @@
                     <div class="section_wrapper clearfix">
                         <div class="items_group clearfix">
                             <!-- One Third (1/3) Column -->
-                            <div class="column one-third column_column">
+                            <div class="column one-second column_column">
                                 <div class="column_attr animate" data-anim-type="zoomInLeft">
                                     <div style="background: url(content/images/home_school_textbox_1.png) no-repeat bottom center; background-size: cover; padding: 30px 30px 50px;">
                                         <h2>What distinguishes
-                                            <br>
-                                            us?</h2>
-                                        <p>
-                                            Our mission is to ensure that every child is equipped mentally, emotionally, socially and spiritually for life. We provide a quality pre-school education and has been operating for the past 25 years.
-                                        </p>
-                                        <ul class="list_check">
+                                            
+                                            me?</h2>
+                                        <ul style="font-size:3vh" class="list_check">
                                             <li>
-                                                Professional medical care for all kids included.
+                                                Interactive and fun method
                                             </li>
                                             <li>
-                                                High qualified teachers with licenses.
+                                                I have an online notebook
                                             </li>
                                             <li>
-                                                Fresh and tasty food in canteen.
+                                                I examine all levels
+                                            </li>
+                                            <li>
+                                                I prepare you for DELE exams
+                                            </li>
+                                            <li>
+                                                Extensive exposure to Spanish and Latin American accents and culture
                                             </li>
                                         </ul>
-                                        <a class="button button_left button_js" href="#"><span class="button_icon"><i class="icon-layout" ></i></span><span class="button_label">Read more</span></a>
                                     </div>
                                 </div>
                             </div>
                             <!-- One Third (1/3) Column -->
-                            <div class="column one-third column_column">
+                            <div class="column one-second column_column">
                                 <div class="column_attr animate" data-anim-type="zoomIn">
                                     <div style="background: url(content/images/home_school_textbox_2.png) no-repeat bottom center; background-size: cover; padding: 30px 30px 50px;">
-                                        <h2>Our beliefs</h2>
-                                        <div class="image_frame no_link scale-with-grid aligncenter has_border">
-                                            <div class="image_wrapper"><img class="scale-with-grid" src="content/images/home_school_photo.jpg" alt="">
-                                            </div>
-                                        </div>
-
-                                        <br>
-                                        <p>
-                                            We believe that salvation is only possible in this life when a person is able to make a volitional and intelligent decision to receive Christ as Saviour. We believe that there is no second chance after death.
-                                        </p>
-                                        <a class="button button_left button_js" href="#"><span class="button_icon"><i class="icon-layout" ></i></span><span class="button_label">Read more</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- One Third (1/3) Column -->
-                            <div class="column one-third column_column">
-                                <div class="column_attr animate" data-anim-type="zoomInRight">
-                                    <div style="background: url(content/images/home_school_textbox_3.png) no-repeat bottom center; background-size: cover; padding: 30px 30px 50px;">
-                                        <h2>Picture of the week</h2>
-                                        <br>
-                                        <br>
-                                        <div  class="image_frame no_link scale-with-grid aligncenter no_border">
-                                            <div class="image_wrapper"><img class="scale-with-grid" src="content/images/home_school_picoftheweek.png" alt="">
-                                            </div>
-                                        </div>
-
-                                        <br>
-                                        <br>
+                                        <h2>What you get</h2>
+                                        <ul style="font-size:3vh" class="list_check">
+                                            <li>
+                                                Conversations
+                                            </li>
+                                            <li>
+                                                Spanish Grammar
+                                            </li>
+                                            <li>
+                                                Accents
+                                            </li>
+                                            <li>
+                                                Cultural Exchange and literature
+                                            </li>
+                                            <li>
+                                                And much more...
+                                            </li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -139,7 +119,7 @@
                                     <h2 class="title"><i class="icon-right-dir"></i>About me<i class="icon-left-dir"></i></h2>
                                     <div class="inside">
                                         <div class="big">
-                                            Easily create & run thousands of timeline posts on your website. Have complete control of privacy and content.
+                                           This is a short summary of my experience as a Spanish teacher and tutor and my education
                                         </div>
                                     </div>
                                 </div>
@@ -149,19 +129,37 @@
                             <div class="column one column_timeline ">
                                 <ul class="timeline_items">
                                     <li>
-                                        <h3><span>2nd January 2014</span>First day in school</h3>
+                                        <h3>2019 - 2021 | Spanish Online Tutor for students all around the world</h3>
                                         <div class="desc">
                                             Vitae adipiscing turpis. Aenean ligula nibh, molestie id viverra a, dapibus at dolor. In iaculis viverra neque, ac eleifend ante lobortis id. In viverra ipsum stie id viverra.
                                         </div>
                                     </li>
                                     <li>
-                                        <h3><span>21st March 2014</span>Parents meeting</h3>
+                                        <h3>2019 | Master in Education</h3>
                                         <div class="desc">
                                             Vitae adipiscing turpis. Aenean ligula nibh, molestie id viverra a, dapibus at dolor. In iaculis viverra neque, ac eleifend ante lobortis id. In viverra ipsum stie id viverra.
                                         </div>
                                     </li>
                                     <li>
-                                        <h3><span>10th June 2014</span>Amazing school adventure</h3>
+                                        <h3>2018 - 2019 | Spanish and Pedagogy Teacher in Multiple Universities</h3>
+                                        <div class="desc">
+                                            Vitae adipiscing turpis. Aenean ligula nibh, molestie id viverra a, dapibus at dolor. In iaculis viverra neque, ac eleifend ante lobortis id. In viverra ipsum stie id viverra.
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <h3>2017 | Specialization in Pedagogy </h3>
+                                        <div class="desc">
+                                            Vitae adipiscing turpis. Aenean ligula nibh, molestie id viverra a, dapibus at dolor. In iaculis viverra neque, ac eleifend ante lobortis id. In viverra ipsum stie id viverra.
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <h3>2014 - 2016 | Spanish Teacher in multiple schools</h3>
+                                        <div class="desc">
+                                            Vitae adipiscing turpis. Aenean ligula nibh, molestie id viverra a, dapibus at dolor. In iaculis viverra neque, ac eleifend ante lobortis id. In viverra ipsum stie id viverra.
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <h3>2013 | B.A in Spanish Language and Literature</h3>
                                         <div class="desc">
                                             Vitae adipiscing turpis. Aenean ligula nibh, molestie id viverra a, dapibus at dolor. In iaculis viverra neque, ac eleifend ante lobortis id. In viverra ipsum stie id viverra.
                                         </div>
@@ -187,7 +185,7 @@
                             <!-- One full width row-->
                             <div class="column one column_column ">
                                 <div class="column_attr ">
-                                    <h2 style="text-align: center; margin: 0;">Our school is the <span class="highlight" >best choice</span> for your kid</h2>
+                                    <h2 style="text-align: center; margin: 0;">My classes are the <span class="highlight" >best choice</span> for your kid</h2>
                                 </div>
                             </div>
                             <!-- One Third (1/3) Column -->
